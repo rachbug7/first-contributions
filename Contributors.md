@@ -19,6 +19,7 @@
 - [Sean]
 - [Ramyalakshmi Sundaramoorthy](https://github.com/s-ramyalakshmi)
 - tstoiu17
+- [Rachel]
 - [Phalak Bhatnagar](https://github.com/phalakbh)
 - [Dung Giang](https://github.com/GiangDung)
 - [Phillip Shou](https://github.com/pshou2)
